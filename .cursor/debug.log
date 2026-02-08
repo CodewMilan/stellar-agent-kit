@@ -1,9 +1,4 @@
-{"hypothesisId":"H1","location":"index.ts:main","message":"MCP server connected on stdio","data":{},"timestamp":1770512584171}
-{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584244}
-{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584284}
-{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584293}
-{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584332}
-{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584384}
-{"hypothesisId":"H1","location":"index.ts:CallTool:entry","message":"CallTool received","data":{"name":"get_stellar_contract","args":{"protocol":"soroswap","network":"mainnet"}},"timestamp":1770512763624}
-{"hypothesisId":"H4","location":"index.ts:CallTool:exit","message":"get_stellar_contract success","data":{"textLen":74},"timestamp":1770512763626}
-{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770516776246}
+{"location":"ui/app/api/agent/chat/route.ts:POST","message":"GROQ_API_KEY check","data":{"hasKey":true,"keyLen":56,"cwd":"C:\\Users\\MY PC\\Documents\\github\\stellar-agent-kit\\ui","groqEnvKeys":["GROQ_API_KEY"]},"timestamp":1770528908231,"hypothesisId":"H1-H5"}
+{"location":"ui/app/api/agent/chat/route.ts:POST","message":"GROQ_API_KEY check","data":{"hasKey":true,"keyLen":56,"cwd":"C:\\Users\\MY PC\\Documents\\github\\stellar-agent-kit\\ui","groqEnvKeys":["GROQ_API_KEY"]},"timestamp":1770528999977,"hypothesisId":"H1-H5"}
+{"location":"ui/app/api/agent/chat/route.ts:get_swap_quote","message":"Amount from LLM and conversion","data":{"argsAmount":"1","amountStr":"1","fromAsset":"XLM","toAsset":"USDC"},"timestamp":1770529000246,"hypothesisId":"H-amount"}
+{"location":"ui/app/api/agent/chat/route.ts:get_swap_quote:rawAmount","message":"Display to raw amount","data":{"amountNum":1,"rawAmount":"10000000","usedDisplayConversion":true},"timestamp":1770529000248,"hypothesisId":"H-amount"}
