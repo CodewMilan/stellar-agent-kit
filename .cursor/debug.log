@@ -1,0 +1,8 @@
+{"hypothesisId":"H1","location":"index.ts:main","message":"MCP server connected on stdio","data":{},"timestamp":1770512584171}
+{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584244}
+{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584284}
+{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584293}
+{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584332}
+{"hypothesisId":"H3","location":"index.ts:ListTools","message":"ListTools called","data":{"toolNames":["get_stellar_contract","get_sdk_snippet"]},"timestamp":1770512584384}
+{"hypothesisId":"H1","location":"index.ts:CallTool:entry","message":"CallTool received","data":{"name":"get_stellar_contract","args":{"protocol":"soroswap","network":"mainnet"}},"timestamp":1770512763624}
+{"hypothesisId":"H4","location":"index.ts:CallTool:exit","message":"get_stellar_contract success","data":{"textLen":74},"timestamp":1770512763626}
